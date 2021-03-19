@@ -1,6 +1,6 @@
 - 👋 Hi,
-- 🌱 I’m currently learning C# javascript
-- 💞️ I’m looking to collaborate on projects 
+-  I’m currently learning C# javascript
+-  I’m looking to collaborate on projects 
 - 📫 How to reach me:Dvpzs47@gmail.com
 
 <!---
